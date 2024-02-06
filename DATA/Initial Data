@@ -1,3 +1,3 @@
-We used this Kaggle Dataset: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
-We downloaded the two datasets called RAW_ interactions and RAW_recipes.
-Then we performed data cleaning to obtain our final dataset that can be found in the SCRIPTS folder.
+We used this Kaggle Dataset: [Food.com Recipes and User Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions).
+We downloaded the two datasets called RAW_interactions and RAW_recipes.
+Then we performed data cleaning to obtain our final dataset that can be found [here](https://drive.google.com/file/d/1Rd5zvJIbr5yocya-hBraDbD2LVNurP-G/view?usp=sharing).
