@@ -1,2 +1,3 @@
 We used this Kaggle Dataset: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 We downloaded the two datasets called RAW_ interactions and RAW_recipes.
+To obtain our Final Data, we performed data cleaning in the EDA script in the SCRIPT folder.
