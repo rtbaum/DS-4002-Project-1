@@ -8,9 +8,9 @@ In this section, you should provide an outline or tree illustrating the hierarch
 | Folder              | Files |
 | :---------------- | :------ |
 | DATA              |  Initial Data, Final Data   |
-| SCRIPTS           |  EDA.ipynb   |
+| SCRIPTS           |  Analysis.ipynb, EDA.ipynb, Master Script.ipynb   |
 | OUTPUT            |  placeholder   |
-| REFERENCES        |  placeholder   |
+| REFERENCES        |  References   |
 
 
 # Section 3: Instructions for reproducing your results. 
