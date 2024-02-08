@@ -4,6 +4,12 @@
 [2]	“Recommender Systems Datasets,” cseweb.ucsd.edu. https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom
 (accessed Jan. 30, 2024).
 
-[3]	 “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s
+[3] “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s
 documentation! - VaderSentiment 3.3.1 documentation,
 https://vadersentiment.readthedocs.io/en/latest/ (accessed Jan. 30, 2024).
+
+[4] Pandas, “pandas documentation — pandas 2.2.1 documentation,” pandas.pydata.org. https://pandas.pydata.org/docs/
+
+[5] “NumPy documentation — NumPy v1.26 Manual,” numpy.org. https://numpy.org/doc/1.26/
+
+[6] Plotly, “Plotly Python Graphing Library,” plotly.com, 2023. https://plotly.com/python/
