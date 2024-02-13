@@ -7,10 +7,10 @@ In this section, you should provide an outline or tree illustrating the hierarch
 
 | Folder              | Files |
 | :---------------- | :------ |
-| DATA              |  Data Appendix.pdf, Initial Data, Final Data   |
-| SCRIPTS           |  Analysis.ipynb, EDA.ipynb, Master Script.ipynb   |
-| OUTPUT            |  Combined Raw Table.png, Correlation Plot.png, Distribution of Minutes.png, Distribution of Number of Steps.png, Distribution of Ratings.png, Distribution of Sentiment Scores.png, Number of Steps vs Sentiment Scores.png, Rating vs Number of Steps.png, Sampled Data with Sentiment Scores.png, Summary Stats for Full Dataset.png, Summary Stats for Sampled Dataset.png   |
-| REFERENCES        |  References   |
+| **DATA**              |  Data Appendix.pdf, Initial Data, Final Data   |
+| **SCRIPTS**           |  Analysis.ipynb, EDA.ipynb, Master Script.ipynb   |
+| **OUTPUT**            |  Combined Raw Table.png, Correlation Plot.png, Distribution of Minutes.png, Distribution of Number of Steps.png, Distribution of Ratings.png, Distribution of Sentiment Scores.png, Number of Steps vs Sentiment Scores.png, Rating vs Number of Steps.png, Sampled Data with Sentiment Scores.png, Summary Stats for Full Dataset.png, Summary Stats for Sampled Dataset.png   |
+| **REFERENCES**        |  References   |
 
 
 ## Section 3: Instructions for reproducing your results. 
