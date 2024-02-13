@@ -15,4 +15,4 @@ In this section, you should provide an outline or tree illustrating the hierarch
 
 ## Section 3: Instructions for reproducing your results. 
 1. To reproduce this code, go to https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions and download the RAW_interactions.csv and RAW_recipes.csv
-2. Execute cells of code within the Master Script jupyter notebook in order
+2. Execute cells of code within the Master Script jupyter notebook in order. The master script is the EDA and Analysis script put together.
